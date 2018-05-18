@@ -1,2 +1,2 @@
 # Java-FluidDynamics
-Final Test Version - 
+This project stimulates the dynamics of fluid by concept illustrated in wolfram fluid dynamics.
